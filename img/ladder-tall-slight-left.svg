@@ -1,0 +1,49 @@
+<svg width="800" height="1000.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="802" height="1002" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" transform="rotate(-29.32244300842285 277.8331909179688,298.9192504882813) ">
+   <rect x="198.384687" y="73.816255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_2"/>
+   <rect x="198.384687" y="135.609255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_3"/>
+   <rect x="198.384687" y="197.402255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_4"/>
+   <rect x="198.384687" y="444.574255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_5"/>
+   <rect x="198.384687" y="259.195255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_6"/>
+   <rect x="198.384687" y="320.988255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_7"/>
+   <rect x="198.384687" y="382.781255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_8"/>
+   <rect x="198.384687" y="506.367255" width="158.897" height="17.655" fill="#E1BE8C" id="svg_9"/>
+  </g>
+  <g stroke="null" id="svg_36" transform="rotate(-29.152875900268555 529.6703491210939,731.6724243164065) ">
+   <rect stroke="null" x="450.858395" y="505.493627" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_28"/>
+   <rect stroke="null" x="450.858395" y="567.581949" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_29"/>
+   <rect stroke="null" x="450.858395" y="629.670272" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_30"/>
+   <rect stroke="null" x="450.858395" y="878.023561" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_31"/>
+   <rect stroke="null" x="450.858395" y="691.758594" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_32"/>
+   <rect stroke="null" x="450.858395" y="753.846916" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_33"/>
+   <rect stroke="null" x="450.858395" y="815.935239" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_34"/>
+   <rect stroke="null" x="450.858395" y="940.111883" width="157.623927" height="17.739377" fill="#E1BE8C" id="svg_35"/>
+  </g>
+  <g id="svg_10" transform="rotate(-29.927804946899414 403.33465576171847,509.6681213378906) " stroke="null">
+   <path d="m489.19904,1005.87236l8.67496,0c4.90336,0 8.83116,-8.01292 8.66808,-17.68115l-16.18867,-958.18788c-0.15719,-9.22243 -3.99264,-16.5395 -8.66906,-16.5395l-8.67496,0c-4.90336,0 -8.83116,8.01292 -8.66807,17.68115l16.18866,958.18789c0.15621,9.22242 3.99068,16.53949 8.66906,16.53949z" fill="#FFDCA0" id="svg_11" stroke="null"/>
+   <path d="m317.4703,1005.87236l-8.67496,0c-4.90336,0 -8.83116,-8.01292 -8.66807,-17.68115l16.18866,-958.18788c0.15719,-9.22243 3.99264,-16.5395 8.66906,-16.5395l8.67496,0c4.90336,0 8.83116,8.01292 8.66808,17.68115l-16.18867,958.18789c-0.15621,9.22242 -3.99068,16.53949 -8.66906,16.53949z" fill="#FFDCA0" id="svg_12" stroke="null"/>
+  </g>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g id="svg_27" transform="rotate(-58 0,0) "/>
+ </g>
+</svg>

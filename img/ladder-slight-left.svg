@@ -1,0 +1,39 @@
+<svg width="450" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="452" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-26.996767044067383 225.00048828125,309.5859985351563) " id="svg_1">
+   <rect id="svg_2" fill="#E1BE8C" height="17.655" width="158.897" y="84.483" x="145.552"/>
+   <rect id="svg_3" fill="#E1BE8C" height="17.655" width="158.897" y="146.276" x="145.552"/>
+   <rect id="svg_4" fill="#E1BE8C" height="17.655" width="158.897" y="208.069" x="145.552"/>
+   <rect id="svg_5" fill="#E1BE8C" height="17.655" width="158.897" y="455.241" x="145.552"/>
+   <rect id="svg_6" fill="#E1BE8C" height="17.655" width="158.897" y="269.862" x="145.552"/>
+   <rect id="svg_7" fill="#E1BE8C" height="17.655" width="158.897" y="331.655" x="145.552"/>
+   <rect id="svg_8" fill="#E1BE8C" height="17.655" width="158.897" y="393.448" x="145.552"/>
+   <rect id="svg_9" fill="#E1BE8C" height="17.655" width="158.897" y="517.034" x="145.552"/>
+  </g>
+  <g transform="rotate(-27.330049514770508 223.99999999999997,311) " stroke="null" id="svg_10">
+   <path stroke="null" id="svg_11" fill="#FFDCA0" d="m311.399,567l8.83,0c4.991,0 8.989,-4.134 8.823,-9.122l-16.478,-494.345c-0.16,-4.758 -4.064,-8.533 -8.824,-8.533l-8.83,0c-4.991,0 -8.989,4.134 -8.823,9.122l16.478,494.345c0.159,4.758 4.062,8.533 8.824,8.533z"/>
+   <path stroke="null" id="svg_12" fill="#FFDCA0" d="m136.601,567l-8.83,0c-4.991,0 -8.989,-4.134 -8.823,-9.122l16.478,-494.345c0.16,-4.758 4.064,-8.533 8.824,-8.533l8.83,0c4.991,0 8.989,4.134 8.823,9.122l-16.478,494.345c-0.159,4.758 -4.062,8.533 -8.824,8.533z"/>
+  </g>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g transform="rotate(-58 0,0) " id="svg_27"/>
+ </g>
+</svg>

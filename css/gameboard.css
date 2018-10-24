@@ -154,14 +154,13 @@ table {
 }
 
 #ladder-9{
-
-	z-index: 40;
+	z-index: 45;
 	position: absolute;
-	top: 400px;
-	left: 950px;
+	top: 475px;
+	left: 750px;
 	padding: 0px;
 }
 #ladder-9-img{
-	height: 120px;
-	width: 500px;
+	height: 150px;
+	width: 350px;
 }

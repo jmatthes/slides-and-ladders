@@ -1,0 +1,39 @@
+<svg width="575" height="475" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="577" height="477" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" transform="rotate(-55.93634033203125 274.00048828125,220.5859985351562) ">
+   <rect x="194.552" y="-4.517" width="158.897" height="17.655" fill="#E1BE8C" id="svg_2"/>
+   <rect x="194.552" y="57.276" width="158.897" height="17.655" fill="#E1BE8C" id="svg_3"/>
+   <rect x="194.552" y="119.069" width="158.897" height="17.655" fill="#E1BE8C" id="svg_4"/>
+   <rect x="194.552" y="366.241" width="158.897" height="17.655" fill="#E1BE8C" id="svg_5"/>
+   <rect x="194.552" y="180.862" width="158.897" height="17.655" fill="#E1BE8C" id="svg_6"/>
+   <rect x="194.552" y="242.655" width="158.897" height="17.655" fill="#E1BE8C" id="svg_7"/>
+   <rect x="194.552" y="304.448" width="158.897" height="17.655" fill="#E1BE8C" id="svg_8"/>
+   <rect x="194.552" y="428.034" width="158.897" height="17.655" fill="#E1BE8C" id="svg_9"/>
+  </g>
+  <g id="svg_10" stroke="null" transform="rotate(-56.38005065917969 273,222) ">
+   <path d="m360.399,478l8.83,0c4.991,0 8.989,-4.134 8.823,-9.122l-16.478,-494.345c-0.16,-4.758 -4.064,-8.533 -8.824,-8.533l-8.83,0c-4.991,0 -8.989,4.134 -8.823,9.122l16.478,494.345c0.159,4.758 4.062,8.533 8.824,8.533z" fill="#FFDCA0" id="svg_11" stroke="null"/>
+   <path d="m185.601,478l-8.83,0c-4.991,0 -8.989,-4.134 -8.823,-9.122l16.478,-494.345c0.16,-4.758 4.064,-8.533 8.824,-8.533l8.83,0c4.991,0 8.989,4.134 8.823,9.122l-16.478,494.345c-0.159,4.758 -4.062,8.533 -8.824,8.533z" fill="#FFDCA0" id="svg_12" stroke="null"/>
+  </g>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g id="svg_27" transform="rotate(-58 49.000000000000036,-88.99999999999999) "/>
+ </g>
+</svg>
